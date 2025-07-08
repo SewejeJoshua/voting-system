@@ -40,18 +40,10 @@ You can run this voting app:
 
 ###  Run in the Browser
 
-1. Open the `index.js` file in your browser.
+1. Open the `vote.js` file in your browser.
 2. Open the **Developer Console** (`F12` or right-click → *Inspect* → *Console*).
 3. Paste or run the code directly in the console.
 4. The app will prompt for candidate names and voting input.
-
----
-
-```bash
-node index.js
-```
-
-> *Note: Make sure you're using a prompt-compatible Node.js setup (e.g., `readline-sync`, `prompt-sync`, or similar).*
 
 ---
 
